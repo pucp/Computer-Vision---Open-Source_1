@@ -1,4 +1,15 @@
-### Computer Vision - Pattern Recognition. 
+### FORK THIS == https://github.com/RohitDhankar/DigitalCognition
+### FORK THIS == https://github.com/RohitDhankar/DigitalCognition
+### FORK THIS == https://github.com/RohitDhankar/DigitalCognition
+### FORK THIS == https://github.com/RohitDhankar/DigitalCognition
+
+
+
+
+
+
+
+Computer Vision - Pattern Recognition. 
 
 ### Probable Tech Stack / Analytics Models and Algorithms , being used :- 
 
